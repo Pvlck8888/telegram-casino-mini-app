@@ -7,6 +7,13 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Telegram](https://img.shields.io/badge/Telegram-Mini%20App-26A5E4?logo=telegram&logoColor=white)](https://core.telegram.org/bots/webapps)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GoMoneyGo.xyz-ff6b35?logo=googlechrome&logoColor=white)](https://GoMoneyGo.xyz)
+
+---
+
+## Live Demo
+
+**Try it now:** [GoMoneyGo.xyz](https://GoMoneyGo.xyz)
 
 ---
 
