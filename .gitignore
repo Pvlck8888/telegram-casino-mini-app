@@ -1,0 +1,25 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+
+# IDE
+.vscode
+.idea
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Replit specific
+.replit
+replit.md
+.config/
+.cache/
+.local/
+.upm/
+generated-icon.png
+design_guidelines.md
