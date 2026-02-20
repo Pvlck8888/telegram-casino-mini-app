@@ -163,11 +163,12 @@ npm run start
 
 ## Screenshots
 
-The app features a dark premium gaming aesthetic with:
-- Animated game lobby with category icons
-- Real-time win ticker and promo slideshow
-- Full-featured admin dashboard
-- Responsive Telegram Mini App interface
+<p align="center">
+  <img src="screenshots/lobby.png" width="200" alt="Game Lobby" />
+  <img src="screenshots/poker.png" width="200" alt="Poker Game" />
+  <img src="screenshots/slots.png" width="200" alt="Slot Machine" />
+  <img src="screenshots/admin.png" width="200" alt="Admin Panel" />
+</p>
 
 ---
 
@@ -196,6 +197,14 @@ Admin rights are assigned via the `isAdmin` flag in the database. Set it to `tru
 
 ---
 
+## Installation & Setup
+
+> **Need help with installation?** Contact [@Nahalist](https://t.me/Nahalist) on Telegram for full setup assistance, server configuration, and Telegram bot integration.
+
+Game assets and visual resources are provided separately after purchase to protect the product.
+
+---
+
 ## License
 
 This project is sold as-is for commercial use. All rights transfer to the buyer upon purchase.
@@ -206,7 +215,7 @@ This project is sold as-is for commercial use. All rights transfer to the buyer 
 
 **Telegram:** [@Nahalist](https://t.me/Nahalist)
 
-For purchase inquiries, customization requests, or technical questions -- message me directly on Telegram.
+For purchase inquiries, customization requests, installation help, or technical questions -- message me directly on Telegram.
 
 ---
 
